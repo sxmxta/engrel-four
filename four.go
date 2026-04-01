@@ -1,5 +1,7 @@
 package engrel_four
 
-func name() {
+import one "github.com/sxmxta/engrel-one"
 
+func Test() {
+	one.EngOneFunc()
 }
